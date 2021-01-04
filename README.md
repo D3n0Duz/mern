@@ -123,17 +123,12 @@ The HTTP Request is what the front end sends to the backend and it must contain
 
 The back end must provide endpoints to the front end for the specific HTTP method that does a specific task.
 
-<p align="center">
-    <img src="https://api.arcadier.com/assets/uploads/editor_upload/Screenshot%202019-09-02%20at%206.17.01%20PM.png
-" alt="Logo" >
-</p>
+![image](https://user-images.githubusercontent.com/33992884/103501535-78f05800-4e1c-11eb-9beb-3851ff5ee8d0.png)
+
 
 Here is a mapping of the HTTP methods and database CRUD
 
-<p align="center">
-    <img src="https://www.edureka.co/blog/wp-content/uploads/2019/06/CRUD-Operations-What-is-REST-API-Edureka-1.png
-" alt="Logo" >
-</p>
+![image](https://user-images.githubusercontent.com/33992884/103501453-362e8000-4e1c-11eb-95f0-dc0b18446219.png)
 
 ###### Response
 The HTTP Response is what the back end sends to the front end. It contains
